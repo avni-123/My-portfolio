@@ -1,0 +1,113 @@
+           p{
+
+               color: rgb(245, 16, 92);
+
+               text-decoration: underline;
+
+               border: dotted;
+
+               text-align: center;
+
+           }
+
+           .header{
+
+            background-color: aqua;
+
+            text-shadow: 1px 1px #ff0000;
+
+            border: dotted;
+
+           }
+
+           .menue{
+
+               border: double;
+               
+           }
+
+           .game{
+
+            border: double;
+
+            border-color: blueviolet;
+
+           }
+
+           .game2{
+
+            border: dashed;
+
+            border-color: rgb(20, 65, 209);
+
+           }
+
+           .game3{
+
+            border: ridge;
+
+            border-color: orange;
+
+           }
+
+           .game4{
+
+            border: dashed;
+
+            border-color: springgreen;
+
+           }
+
+           .game5{
+
+            border: ridge;
+
+            border-color: slateblue;
+
+           }
+
+           .game6{
+
+            border: double;
+
+            border-color: rgb(163, 116, 116);
+
+           }
+
+           .game7{
+
+            border: outset;
+
+            border-color: peru;
+
+           }
+
+           .game8{
+
+            border: double;
+
+            border-color: salmon;
+
+           }
+
+           .game9{
+
+            border: dashed;
+
+            border-color: mediumvioletred;
+
+           }
+
+           .game10{
+
+            border: ridge;
+
+            border-color: gold;
+
+           }
+
+           .apps{
+
+            border: dashed;
+
+           }
